@@ -6,3 +6,6 @@
 * 因为本地没有这个README.md文件 所以 git认为 本地和仓库的文件 没有共同祖先
 * 需要使用git pull origin main --allow-unrelated-histories（尤其后面这个参数）
 * 强行建立祖先
+
+
+* 测试测试
